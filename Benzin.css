@@ -1,7 +1,7 @@
 @font-face {
   font-family: "BenzinRegular";
-  src: url('./font.woff2') format('woff2'),
-       url('./font.woff') format('woff');
+  src: url('https://raw.githubusercontent.com/syaranehls/Benzin.css/main/font.woff2') format('woff2'),
+       url('https://raw.githubusercontent.com/syaranehls/Benzin.css/main/font.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
